@@ -78,7 +78,7 @@ Label É também importante acompanhar as tags de input por outra tag que se cha
 <input type="text" name="name" placeholder="Seu nome">
 O atributo 'for' (tradução: para) no label deve ter o mesmo valor do name do input correspondente.
 
-# Atributos importantes Dentro de toda tag de input, deve haver o atributo name. Isso é necessário para fazer a conexão para um possível script para o envio de dados. O atributo value é necessário em tags de opção - option, input type="checkbox, input type="radio. Isso porque o usuário não vai inserir dados diretamente no campo, mas selecionar a opção com valor pré-estabelecido. O atributo placeholder, em tags de input de texto e email, define um texto dentro do campo de dados que pode servir como dica para o usuário.
+ Atributos importantes Dentro de toda tag de input, deve haver o atributo name. Isso é necessário para fazer a conexão para um possível script para o envio de dados. O atributo value é necessário em tags de opção - option, input type="checkbox, input type="radio. Isso porque o usuário não vai inserir dados diretamente no campo, mas selecionar a opção com valor pré-estabelecido. O atributo placeholder, em tags de input de texto e email, define um texto dentro do campo de dados que pode servir como dica para o usuário.
 
 # O atributo required é inserido em qualquer tag de input, select ou textarea, em que é obrigatório ser preenchido para que ocorra a submissão do formulário.
 
